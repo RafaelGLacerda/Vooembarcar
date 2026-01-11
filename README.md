@@ -12,13 +12,4 @@ Este projeto consiste em uma página estática que permite ao usuário a cotaç�
 - CSS
 - JavaScript
 
-## 📁 Estrutura do Projeto
-
-O repositório contém os seguintes arquivos:
-
-- `index.html`: Página principal com o formulário de cotação.
-- `cotacao.html`: Página que exibe a cotação simulada.
-- `style.css`: Estilos para a interface.
-- `cotacao.css`: Estilos específicos para a página de cotação.
-- `script.js`: Lógica JavaScript para processamento do formulário e exibição da cotação.
 
