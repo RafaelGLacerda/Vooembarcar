@@ -22,9 +22,3 @@ O repositório contém os seguintes arquivos:
 - `cotacao.css`: Estilos específicos para a página de cotação.
 - `script.js`: Lógica JavaScript para processamento do formulário e exibição da cotação.
 
-## 📌 Como Usar
-
-1. Clone este repositório para o seu ambiente local:
-
-   ```bash
-   git clone https://github.com/RafaelGLacerda/vooembarcar.git
